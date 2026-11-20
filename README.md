@@ -15,7 +15,7 @@ Floating lock-screen reminders for Android. Pin a task to a time and a place, an
 
 <br />
 
-<img src="assets/demo.gif" width="280" alt="ZIID Tasks demo: a floating reminder wakes the phone" />
+
 
 </div>
 
